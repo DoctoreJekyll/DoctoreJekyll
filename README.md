@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DoctoreJekyll
+- 👋 Hi, I’m @joseajierro
 - 👀 I’m interested in C# in Unity and Kotlin
 - 🌱 I’m currently learning C# and Unity every day and try to learn some Kotlin
 - 💞️ I’m looking to collaborate on videogames developer
