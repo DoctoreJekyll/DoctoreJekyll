@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joseajierro
+- 👋 Hi, I’m Jose
 - 👀 I’m interested in C# in Unity and Java for backend developer
 - 💞️ I’m looking to collaborate on videogames developer and Java projects
 - 📫 How to reach me, you can find me as Jose Antonio Rodriguez Martin in Linkedin or contact in jrmar0805@gmail.com for works propusal
