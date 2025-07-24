@@ -1,20 +1,38 @@
-💡 About Me
-👀 I’m interested in developing video games using Unity and building robust backend systems with Java.
-🤝 I’m looking to collaborate on video game projects as well as Java backend applications.
-📫 You can contact me for job proposals through via:
-📧 Email: (mailto:jrmar0805@gmail.com)
-💼 LinkedIn: [Jose Antonio Rodriguez Martin]([https://www.linkedin.com/](https://www.linkedin.com/in/jose-rodriguez-martin/)
+# 💡 About Me
 
-🛠️ Technologies I Work With
-Languages: Java, C#
-Frameworks: Spring, JPA
-Game Engine: Unity
-Databases: PostgreSQL
-Tools: IntelliJ IDEA, Rider, Git
+👋 Hi! I'm **Jose Antonio Rodriguez Martin**, a passionate developer focused on:
+
+- 🎮 Developing video games with **Unity**
+- 🖥️ Building robust **Java backend systems**
+
+## 👀 Interests
+
+- Video game development (Unity, C#)
+- Java backend applications (Spring, JPA, PostgreSQL)
+
+## 🤝 Looking to Collaborate On
+
+- Game dev projects using Unity
+- Java/Spring-based backend applications
+
+## 📫 Contact Me
+
+- 📧 **Email:** [jrmar0805@gmail.com](mailto:jrmar0805@gmail.com)  
+- 💼 **LinkedIn:** [Jose Antonio Rodriguez Martin](https://www.linkedin.com/in/jose-rodriguez-martin/)
 
 ---
 
-🚀 Constantly learning and building. Let’s create something great together.
+## 🛠️ Technologies I Work With
+
+**Languages:** Java, C#  
+**Frameworks:** Spring, JPA  
+**Game Engine:** Unity  
+**Databases:** PostgreSQL  
+**Tools:** IntelliJ IDEA, Rider, Git
+
+---
+
+🚀 *Constantly learning and building. Let’s create something great together!*
 
 <!---
 DoctoreJekyll/DoctoreJekyll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
